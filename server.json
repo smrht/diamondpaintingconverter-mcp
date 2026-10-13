@@ -3,7 +3,7 @@
   "name": "io.github.smrht/diamondpaintingconverter",
   "title": "Diamond Painting Converter",
   "description": "Find your purchased diamond painting patterns and download the PDF with DMC colour legend.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://diamondpaintingconverter.com/",
   "repository": {
     "url": "https://github.com/smrht/diamondpaintingconverter-mcp",
